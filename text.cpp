@@ -5,6 +5,7 @@ int main(){
 	int c;
 	cout<<"hello git!";
 	cout<<"dev";
+	cout<<"hi,,, liaoxuefeng";
 	return 0;
 }
 	
